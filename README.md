@@ -1,7 +1,7 @@
 ### Hello, my name is Leonardo!
 #### I'm a software developer!
 
-I design and develop systems that range from web servers to applications for desktop, web and mobile platforms, mostly by using JavaScript.
+I design and develop systems that range from web servers to applications for desktop, web and mobile platforms, mostly by using JavaScript and sometimes C#.
 
 **Want to contact me?**
 - ✉ **E-mail:** leonardo.takanobu@hotmail.com
