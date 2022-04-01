@@ -12,7 +12,7 @@ I design and develop systems that range from web servers to applications for des
 - 🗃 **Databases:** MySQL / PostgreSQL / RedisDB
 - 📦 **Frameworks:** 
   - Node.js, Express, React, React Native.
-  - .Net Framework, .Net Core (Basics).
+  - .Net Framework, .Net Core.
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleonardots&theme=github_dark)](https://github.com/devleonardots)
