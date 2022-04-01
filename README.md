@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello, my name is Leonardo!
+#### I'm a software developer!
 
-<!--
-**devLeonardoTS/devLeonardoTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and develop systems that range from web servers to applications for desktop, web and mobile platforms, mostly by using JavaScript.
 
-Here are some ideas to get you started:
+**Want to contact me?**
+- ✉ **E-mail:** leonardo.takanobu@hotmail.com
+- 📱 **Phone:** +55 011 95142-9364 (WhatsApp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 🌐 **Languages:** JavaScript / C#
+- 🗃 **Databases:** MySQL / PostgreSQL / RedisDB
+- 📦 **Frameworks:** 
+  - Node.js, Express, React, React Native.
+  - .Net Framework, .Net Core (Basics).
+
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleonardots&theme=github_dark)](https://github.com/devleonardots)
