@@ -49,13 +49,7 @@
   <summary><b>Graphics, Design, UI, UX</b></summary>
   
   <br>
-  
-  <a href="https://www.figma.com/">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  </a>
-  
-  <br>
-  
+
   <a href="https://www.gimp.org/">
     <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp Gnu Image Manipulation Program" />
   </a>
@@ -66,14 +60,53 @@
   
   <br>
   
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  </a>
+  
+  <br>
+  
   <a href="https://mui.com/">
     <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
   </a>
-  
+
 </details>
 
 <details>
   <summary><b>IDEs, Languages, Platforms, Frameworks</b></summary>
+  
+  <br>
+  
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  </a>
+  
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  </a>
+
+  <br>
+  
+  <a href="https://learn.microsoft.com/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/c%23-5C2D91.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  </a>
+  
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+  
   <br>
   
   <a href="https://dotnet.microsoft.com/">
@@ -114,38 +147,6 @@
   
   <a href="https://tailwindcss.com/">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  </a>
-  
-  <br>
-  
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-  </a>
-  
-  <a href="https://visualstudio.microsoft.com/">
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-  </a>
-  
-  <br>
-  
-  <a href="https://learn.microsoft.com/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/c%23-5C2D91.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  </a>
-  
-  <a href="https://developer.mozilla.org/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-  
-  <a href="https://developer.mozilla.org/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  </a>
-  
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
   
   <br>
