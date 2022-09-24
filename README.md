@@ -14,10 +14,10 @@
   <li>💖 Loves learning, IT, design, rock'n'roll, coffee, japanese culture, cats and a lot of other things.</li>
 </ul>
 
-## Tools I use
+## Tools I use 
 
 <details>
-  <summary><b>Databases</b></summary>
+  <summary><b>Databases</b> <sub><sup> → Tip: Click or touch to expand</sup></sub></summary>
   
   <br>
   
@@ -176,12 +176,14 @@
 <a href="https://www.linkedin.com/in/devleonardots/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
 </a>
-<p>
-  <a href="mailto: leonardo.takanobu@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-leonardo.takanobu@hotmail.com-%2320232a?style=for-the-badge&labelColor=0078D4&logo=microsoft-outlook&logoColor=white" alt="E-mail" />
-  </a>
-</p>  
-  ✉ - <b>Email</b>: leonardo.takanobu@hotmail.com
+
+<br>
+
+<a href="mailto:leonardo.takanobu@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-leonardo.takanobu@hotmail.com-%2320232a?style=for-the-badge&labelColor=0078D4&logo=microsoft-outlook&logoColor=white" alt="E-mail" />
+</a>
+
+<sup>✉ - <strong>Email</strong>: <leonardo.takanobu@hotmail.com></sup>
 
 
 ## Stats
