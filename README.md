@@ -7,7 +7,7 @@
 ## About me
 
 <ul>
-  <li>👨‍💻 <strong>Designer</strong> and <strong>developer</strong> of IT systems. Ranging from web servers to applications for web, mobile and desktop platforms.</li>
+  <li>👨‍💻 <strong>Designer</strong> and <strong>developer</strong> of IT systems.</li>
   <li>🎓 Owner of a certificate as <strong>Systems Developer</strong> from <a href="https://www.etecantoniofurlan.com.br/">Barueri's ETEC</a>.</li>
   <li>🎓 Studies for <strong>IT Management</strong> at <a href="https://fatecbarueri.edu.br/">Barueri's FATEC</a>.</li>
   <li>🏡 Lives in <strong>São Paulo, Brazil.</strong></li>
